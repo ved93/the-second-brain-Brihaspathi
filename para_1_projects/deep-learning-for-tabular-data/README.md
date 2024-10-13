@@ -14,3 +14,5 @@ This book is for data scientists, machine learning engineers, and deep learning 
 
 
 
+
+This history of using neural networks for tabular/structured data is new and the Imagenet moment for tabular data is yet to come. The current state of the art models for tabular data are still tree-based models. However, deep learning models are catching up and have shown promising results in recent years. The research in this field is changing rapidly and new architectures are being proposed every day. This book is an attempt to fill the gap in the literature and provide a comprehensive guide to deep learning for structured data. The book is aimed at data scientists, machine learning engineers, and deep learning practitioners who want to explore deep learning for structured data. The book will be updated regularly with the latest research and advancements in the field of deep learning for structured data.
